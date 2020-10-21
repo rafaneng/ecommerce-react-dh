@@ -1,0 +1,14 @@
+.CardCarrinho{
+    max-width: 200px;
+    border: 1px solid red;
+    padding: 10px;
+    margin: 5px;
+}
+.CardCarrinho div img{
+    max-width: 100%;
+    max-height: 150px;
+}
+.CardCarrinho div div button{
+    padding: 10px;
+    margin: 5px 5px 5px 0px;
+}

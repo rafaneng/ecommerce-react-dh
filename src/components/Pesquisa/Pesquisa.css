@@ -1,0 +1,9 @@
+.Pesquisa{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+.Pesquisa input{
+    padding: 10px;
+    width: 50vw;
+}

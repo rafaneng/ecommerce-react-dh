@@ -1,0 +1,15 @@
+.Menu ul{
+    display: flex;
+}
+.Menu ul li{
+    list-style: none;
+}
+.Menu ul li *{
+    color: #fff;
+    padding: 10px;
+    text-decoration: none;
+}
+.Menu ul li *:hover{
+    font-weight: bold;
+}
+

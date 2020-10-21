@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.Header{
+    background-color: rgb(35, 42, 80);
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.Header section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Header section:last-child{
+    margin-left: 20px;
+}

@@ -1,0 +1,25 @@
+.cards{
+    background-color: rgb(245, 245, 245);
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 10px;
+}
+#header-title{
+    display: flex;
+    justify-content: center;
+}
+button{
+    padding: 15px;
+    background-color: #dadada;
+    color: rgb(39, 39, 39);
+    border: none;
+    border-radius: 5px;
+    transition: all .3s;
+    margin: 0px 10px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: #232a50;
+    color: #fff;
+}
